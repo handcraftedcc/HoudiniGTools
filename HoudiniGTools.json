@@ -1,0 +1,9 @@
+{
+	"env": [
+		{
+			"HOUDINIGTOOLS": "PATH/TO/PACKAGE/HoudiniGTools"
+		}
+	],
+	"path": "$HOUDINIGTOOLS"
+	
+}
